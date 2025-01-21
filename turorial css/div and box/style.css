@@ -9,3 +9,10 @@ button{
     background-color: blueviolet;
     color: white;
 }
+
+#outer{
+    font-size: 25;
+}
+#inner{
+    font-size: 10;
+}
